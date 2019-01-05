@@ -4,7 +4,7 @@
   "description": "For testing semantic release",
   "author": "haani104",
   "license": "MIT",
-  "repository": "haani104/semantic-play",
+  "repository": "git@github.com:haani104/semantic-play.git",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
